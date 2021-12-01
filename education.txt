@@ -1,0 +1,4 @@
+Education: Boot Camp
+Education: Self-Taught
+Education: University
+Education: Online Course
